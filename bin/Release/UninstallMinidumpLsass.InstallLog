@@ -1,0 +1,5 @@
+﻿Uninstalling assembly 'c:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.exe
+   logfile = c:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.InstallLog

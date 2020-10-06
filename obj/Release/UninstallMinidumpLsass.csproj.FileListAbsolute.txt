@@ -1,0 +1,6 @@
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.exe.config
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.exe
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\bin\Release\UninstallMinidumpLsass.pdb
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\obj\Release\UninstallMinidumpLsass.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\obj\Release\UninstallMinidumpLsass.exe
+C:\Users\Caleb\source\repos\UninstallMinidumpLsass\UninstallMinidumpLsass\obj\Release\UninstallMinidumpLsass.pdb
